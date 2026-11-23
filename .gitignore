@@ -1,0 +1,9 @@
+/data/
+/.venv/
+__pycache__/
+*.py[cod]
+*.pt
+*.npz
+.env
+.idea/
+.vscode/
